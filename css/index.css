@@ -47,7 +47,9 @@ p {
 }
 
 .navbar li a:hover {
-    
+    margin-top:4px;
+    padding-bottom:4px;
+    margin-top:-4px;
 }
 
 .navbar li a:selected {
